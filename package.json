@@ -1,0 +1,21 @@
+{
+  "name": "com.postegames.playerloopinjector",
+  "version": "1.0.0",
+  "displayName": "PEGLIB - Player Loop Injector",
+  "description": "System for injecting custom delegates into the Unity update loop system.",
+  "unity": "2022.2",
+  "keywords": [
+    "utility",
+    "library"
+  ],
+  "author": {
+    "name": "Sluggy",
+    "email": "jcsluggy@gmail.com",
+    "url": "http:/postegames.com"
+  },
+  "dependencies": {
+    "com.postegames.collections": "",
+    "com.postegames.typehelper": "",
+    "com.postegames.autocreatable": ""
+  }
+}

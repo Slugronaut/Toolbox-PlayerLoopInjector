@@ -1,0 +1,26 @@
+{
+    "name": "com.postegames.playerloopinector.tests.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:27619889b8ba8c24980f49ee34dbb44a",
+        "GUID:0acc523941302664db1f4e527237feb3",
+        "GUID:13415da0b68dae24da63ed8e46d7345f",
+        "GUID:777455037b3e6dd47a832372b9042dd6",
+        "GUID:5d2de123429b952439048354a2e815c1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

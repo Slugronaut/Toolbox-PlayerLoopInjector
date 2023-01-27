@@ -1,0 +1,18 @@
+{
+    "name": "com.postegames.playerloopinjector",
+    "rootNamespace": "",
+    "references": [
+        "GUID:01112215c5eed6a419b30b02a246119d",
+        "GUID:777455037b3e6dd47a832372b9042dd6",
+        "GUID:5d2de123429b952439048354a2e815c1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
