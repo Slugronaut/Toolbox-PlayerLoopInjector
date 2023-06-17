@@ -29,6 +29,8 @@ namespace Toolbox.UpdateSystem
 
         public virtual void Awake() { }
 
+        public virtual void Update() { }
+
         public void OnShutdown(IUpdateSystem system)
         {
             _Enabled = false;
@@ -43,8 +45,5 @@ namespace Toolbox.UpdateSystem
             OnEnable();
         }
 
-        public virtual void Update()
-        {
-        }
     }
 }
