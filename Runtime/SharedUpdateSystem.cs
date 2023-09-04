@@ -18,9 +18,9 @@ using PlayerLoopType = UnityEngine.Experimental.PlayerLoop;
 #if UNITY_EDITOR
 using UnityEditor;
 #endif
-using Toolbox.Linq;
+using Peg.Linq;
 
-namespace Toolbox.UpdateSystem
+namespace Peg.UpdateSystem
 {
     /// <summary>
     /// A global system that is started at the beginning of the app. Objects implementing

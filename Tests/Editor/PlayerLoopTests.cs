@@ -3,9 +3,9 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using NUnit.Framework;
-using Toolbox;
-using Toolbox.AutoCreate;
-using Toolbox.UpdateSystem;
+using Peg;
+using Peg.AutoCreate;
+using Peg.UpdateSystem;
 
 
 public class PlayerLoopTests

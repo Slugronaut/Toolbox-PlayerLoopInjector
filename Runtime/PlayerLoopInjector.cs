@@ -1,12 +1,12 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Toolbox.AutoCreate;
-using Toolbox.Linq;
+using Peg.AutoCreate;
+using Peg.Linq;
 using UnityEngine;
 using UnityEngine.LowLevel;
 
-namespace Toolbox.UpdateSystem
+namespace Peg.UpdateSystem
 {
     /// <summary>
     /// Creates, inializes, and injects PlayerLoopSystems into the core engine update cycle.

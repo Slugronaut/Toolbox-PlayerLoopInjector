@@ -1,4 +1,4 @@
-namespace Toolbox.UpdateSystem
+namespace Peg.UpdateSystem
 {
     /// <summary>
     /// Base class for creating simple objects that automatically

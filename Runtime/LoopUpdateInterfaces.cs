@@ -1,5 +1,5 @@
 
-namespace Toolbox.UpdateSystem
+namespace Peg.UpdateSystem
 {
 
     /// <summary>

@@ -1,5 +1,5 @@
 
-namespace Toolbox.UpdateSystem
+namespace Peg.UpdateSystem
 {
     /// <summary>
     /// List of possible points within the engine update that an injected delegate will be invoked.
