@@ -9,7 +9,6 @@ using System.Threading;
 using UnityEngine.LowLevel;
 using System.Collections.Generic;
 using UnityEngine.PlayerLoop;
-using Sirenix.Utilities;
 #else
 using UnityEngine.Experimental.LowLevel;
 using PlayerLoopType = UnityEngine.Experimental.PlayerLoop;
